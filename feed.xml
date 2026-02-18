@@ -3,12 +3,38 @@
     <title>thefreshtwist.com</title>
     <link href="https://thefreshtwist.com/feed.xml" rel="self" />
     <link href="https://thefreshtwist.com" />
-    <updated>2026-02-18T04:07:41-05:00</updated>
+    <updated>2026-02-18T05:50:53-05:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://thefreshtwist.com</id>
 
+    <entry>
+        <title>drywall</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://thefreshtwist.com/drywall-2.html"/>
+        <id>https://thefreshtwist.com/drywall-2.html</id>
+        <media:content url="https://thefreshtwist.com/media/posts/5/animazingxl_v10_660077922493711_00001_.png" medium="image" />
+
+        <updated>2026-02-18T05:50:53-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://thefreshtwist.com/media/posts/5/animazingxl_v10_660077922493711_00001_.png" alt="" />
+                    this is drywall
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://thefreshtwist.com/media/posts/5/animazingxl_v10_660077922493711_00001_.png" class="type:primaryImage" alt="" /></p>
+                <p>this is drywall</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="true" data-translation="Add images">
+<figure class="post__image"><img loading="lazy"  src="https://thefreshtwist.com/media/posts/5/animazingxl_v10_660077922493711_00001_-2.png" alt="" width="832" height="1216" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thefreshtwist.com/media/posts/5/responsive/animazingxl_v10_660077922493711_00001_-2-xs.png 300w ,https://thefreshtwist.com/media/posts/5/responsive/animazingxl_v10_660077922493711_00001_-2-sm.png 480w ,https://thefreshtwist.com/media/posts/5/responsive/animazingxl_v10_660077922493711_00001_-2-md.png 768w"></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>open for work</title>
         <author>
@@ -28,7 +54,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://thefreshtwist.com/media/posts/1/sweetHoney_1029077376243492_00001_.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://thefreshtwist.com/media/posts/1/animazingxl_v10_1085805625832699_00005_.png" alt="" width="200" height="293" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xs.png 384w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-sm.png 600w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-md.png 768w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-lg.png 1200w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xl.png 1600w"></figure> welcome to our site</p>
+                <figure class="post__image"><img loading="lazy"  src="https://thefreshtwist.com/media/posts/1/animazingxl_v10_1085805625832699_00005_.png" alt="" width="200" height="293" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xs.png 300w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-sm.png 480w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-md.png 768w"></figure> welcome to our site</p>
             ]]>
         </content>
     </entry>
