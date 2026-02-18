@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>thefreshtwist.com</title>
+    <link href="https://thefreshtwist.com/feed.xml" rel="self" />
+    <link href="https://thefreshtwist.com" />
+    <updated>2026-02-18T04:07:41-05:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://thefreshtwist.com</id>
+
+    <entry>
+        <title>open for work</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://thefreshtwist.com/open-for-work.html"/>
+        <id>https://thefreshtwist.com/open-for-work.html</id>
+        <media:content url="https://thefreshtwist.com/media/posts/1/sweetHoney_1029077376243492_00001_.png" medium="image" />
+
+        <updated>2026-02-18T04:07:41-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://thefreshtwist.com/media/posts/1/sweetHoney_1029077376243492_00001_.png" alt="" />
+                    welcome to our site
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://thefreshtwist.com/media/posts/1/sweetHoney_1029077376243492_00001_.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://thefreshtwist.com/media/posts/1/animazingxl_v10_1085805625832699_00005_.png" alt="" width="200" height="293" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xs.png 384w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-sm.png 600w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-md.png 768w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-lg.png 1200w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xl.png 1600w"></figure> welcome to our site</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

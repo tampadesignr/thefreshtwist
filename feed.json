@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "thefreshtwist.com",
+    "description": "",
+    "home_page_url": "https://thefreshtwist.com",
+    "feed_url": "https://thefreshtwist.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://thefreshtwist.com/open-for-work.html",
+            "url": "https://thefreshtwist.com/open-for-work.html",
+            "title": "open for work",
+            "summary": "welcome to our site",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/1/animazingxl_v10_1085805625832699_00005_.png\" alt=\"\" width=\"200\" height=\"293\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xs.png 384w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-sm.png 600w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-md.png 768w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-lg.png 1200w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xl.png 1600w\"></figure> welcome to our site</p>",
+            "image": "https://thefreshtwist.com/media/posts/1/sweetHoney_1029077376243492_00001_.png",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-02-18T04:07:41-05:00",
+            "date_modified": "2026-02-18T04:07:41-05:00"
+        }
+    ]
+}
