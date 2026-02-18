@@ -15,15 +15,15 @@
             "url": "https://thefreshtwist.com/drywall-2.html",
             "title": "drywall",
             "summary": "this is drywall",
-            "content_html": "<p>this is drywall</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"true\" data-translation=\"Add images\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/animazingxl_v10_660077922493711_00001_-2.png\" alt=\"\" width=\"832\" height=\"1216\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/animazingxl_v10_660077922493711_00001_-2-xs.png 300w ,https://thefreshtwist.com/media/posts/5/responsive/animazingxl_v10_660077922493711_00001_-2-sm.png 480w ,https://thefreshtwist.com/media/posts/5/responsive/animazingxl_v10_660077922493711_00001_-2-md.png 768w\"></figure>\n</div></div>",
-            "image": "https://thefreshtwist.com/media/posts/5/animazingxl_v10_660077922493711_00001_.png",
+            "content_html": "<p>this is drywall</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"true\" data-translation=\"Add images\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1477.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1470.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1478.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1486.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1484.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-md.JPG 768w\"></figure>\n</div></div>",
+            "image": "https://thefreshtwist.com/media/posts/5/20181027_071252.jpg",
             "author": {
                 "name": "admin"
             },
             "tags": [
             ],
             "date_published": "2026-02-18T05:50:53-05:00",
-            "date_modified": "2026-02-18T05:50:53-05:00"
+            "date_modified": "2026-02-18T10:55:29-05:00"
         },
         {
             "id": "https://thefreshtwist.com/open-for-work.html",
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2026-02-18T04:07:41-05:00",
-            "date_modified": "2026-02-18T04:07:41-05:00"
+            "date_modified": "2026-02-18T06:39:27-05:00"
         }
     ]
 }
