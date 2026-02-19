@@ -11,26 +11,72 @@
     },
     "items": [
         {
-            "id": "https://thefreshtwist.com/drywall-2.html",
-            "url": "https://thefreshtwist.com/drywall-2.html",
-            "title": "drywall",
-            "summary": "this is drywall",
-            "content_html": "<p>this is drywall</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"true\" data-translation=\"Add images\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1477.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1470.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1478.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1486.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1484.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-md.JPG 768w\"></figure>\n</div></div>",
-            "image": "https://thefreshtwist.com/media/posts/5/20181027_071252.jpg",
+            "id": "https://thefreshtwist.com/drywall-job-2.html",
+            "url": "https://thefreshtwist.com/drywall-job-2.html",
+            "title": "drywall job 2",
+            "content_html": "<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/9/20220505_084722.jpg\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/9/responsive/20220505_084722-xs.jpg 300w ,https://thefreshtwist.com/media/posts/9/responsive/20220505_084722-sm.jpg 480w ,https://thefreshtwist.com/media/posts/9/responsive/20220505_084722-md.jpg 768w\"></figure>",
+            "image": "https://thefreshtwist.com/media/posts/9/20220509_083507.jpg",
             "author": {
                 "name": "admin"
             },
             "tags": [
+                   "drywall"
+            ],
+            "date_published": "2026-02-19T09:44:33-05:00",
+            "date_modified": "2026-02-19T09:44:43-05:00"
+        },
+        {
+            "id": "https://thefreshtwist.com/paint-job-2.html",
+            "url": "https://thefreshtwist.com/paint-job-2.html",
+            "title": "paint job 2",
+            "content_html": "<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/7/IMG_1058.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-xs.JPG 300w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-sm.JPG 480w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/7/IMG_1061.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-xs.JPG 300w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-sm.JPG 480w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-md.JPG 768w\"></figure>",
+            "image": "https://thefreshtwist.com/media/posts/7/IMG_1061-2.JPG",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "paint"
+            ],
+            "date_published": "2026-02-19T09:13:03-05:00",
+            "date_modified": "2026-02-19T09:32:40-05:00"
+        },
+        {
+            "id": "https://thefreshtwist.com/paint-job-1.html",
+            "url": "https://thefreshtwist.com/paint-job-1.html",
+            "title": "paint job 1",
+            "content_html": "<figure class=\"post__image\"><img decoding=\"async\"  style=\"font-size: inherit; outline: rgba(16, 137, 255, 0.55) solid 3px !important;\" src=\"https://thefreshtwist.com/media/posts/6/IMG_1551.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/6/responsive/IMG_1551-xs.JPG 300w ,https://thefreshtwist.com/media/posts/6/responsive/IMG_1551-sm.JPG 480w ,https://thefreshtwist.com/media/posts/6/responsive/IMG_1551-md.JPG 768w\"></figure><figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  style=\"font-size: inherit; outline: rgba(16, 137, 255, 0.55) solid 3px !important;\" src=\"https://thefreshtwist.com/media/posts/6/IMG_1550.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/6/responsive/IMG_1550-xs.JPG 300w ,https://thefreshtwist.com/media/posts/6/responsive/IMG_1550-sm.JPG 480w ,https://thefreshtwist.com/media/posts/6/responsive/IMG_1550-md.JPG 768w\"></figure><figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  style=\"font-size: inherit;\" src=\"https://thefreshtwist.com/media/posts/6/IMG_1543.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/6/responsive/IMG_1543-xs.JPG 300w ,https://thefreshtwist.com/media/posts/6/responsive/IMG_1543-sm.JPG 480w ,https://thefreshtwist.com/media/posts/6/responsive/IMG_1543-md.JPG 768w\"></figure>",
+            "image": "https://thefreshtwist.com/media/posts/6/IMG_1555.JPG",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "paint"
+            ],
+            "date_published": "2026-02-19T09:12:10-05:00",
+            "date_modified": "2026-02-19T09:41:13-05:00"
+        },
+        {
+            "id": "https://thefreshtwist.com/drywall-2.html",
+            "url": "https://thefreshtwist.com/drywall-2.html",
+            "title": "drywall",
+            "summary": "this is drywall",
+            "content_html": "<p>this is drywall</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"true\" data-translation=\"Add images\">\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1477.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1477-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1470.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1470-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1478.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1478-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1486.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1486-md.JPG 768w\"></figure>\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/5/IMG_1484.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-xs.JPG 300w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-sm.JPG 480w ,https://thefreshtwist.com/media/posts/5/responsive/IMG_1484-md.JPG 768w\"></figure>\n</div></div>",
+            "image": "https://thefreshtwist.com/media/posts/5/IMG_1475.JPG",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "drywall"
             ],
             "date_published": "2026-02-18T05:50:53-05:00",
-            "date_modified": "2026-02-18T10:55:29-05:00"
+            "date_modified": "2026-02-19T09:45:24-05:00"
         },
         {
             "id": "https://thefreshtwist.com/open-for-work.html",
             "url": "https://thefreshtwist.com/open-for-work.html",
             "title": "open for work",
             "summary": "welcome to our site",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/1/animazingxl_v10_1085805625832699_00005_.png\" alt=\"\" width=\"200\" height=\"293\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xs.png 300w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-sm.png 480w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-md.png 768w\"></figure> welcome to our site</p>",
+            "content_html": "<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/1/animazingxl_v10_1085805625832699_00005_.png\" alt=\"\" width=\"200\" height=\"293\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-xs.png 300w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-sm.png 480w ,https://thefreshtwist.com/media/posts/1/responsive/animazingxl_v10_1085805625832699_00005_-md.png 768w\"></figure> welcome to our site</p>",
             "image": "https://thefreshtwist.com/media/posts/1/sweetHoney_1029077376243492_00001_.png",
             "author": {
                 "name": "admin"
