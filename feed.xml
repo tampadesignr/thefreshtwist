@@ -3,7 +3,7 @@
     <title>thefreshtwist.com</title>
     <link href="https://thefreshtwist.com/feed.xml" rel="self" />
     <link href="https://thefreshtwist.com" />
-    <updated>2026-02-19T09:45:24-05:00</updated>
+    <updated>2026-02-19T10:01:08-05:00</updated>
     <author>
         <name>admin</name>
     </author>
@@ -24,7 +24,15 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://thefreshtwist.com/media/posts/9/20220509_083507.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img decoding="async" loading="lazy"  src="https://thefreshtwist.com/media/posts/9/20220505_084722.jpg" alt="" width="4032" height="3024" sizes="(max-width: 48em) 100vw, 768px" srcset="https://thefreshtwist.com/media/posts/9/responsive/20220505_084722-xs.jpg 300w ,https://thefreshtwist.com/media/posts/9/responsive/20220505_084722-sm.jpg 480w ,https://thefreshtwist.com/media/posts/9/responsive/20220505_084722-md.jpg 768w"></figure>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/9/gallery/IMG_1340.JPG" data-size="2448x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/9/gallery/IMG_1340-thumbnail.JPG" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/9/gallery/IMG_1341.JPG" data-size="2448x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/9/gallery/IMG_1341-thumbnail.JPG" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/9/gallery/IMG_1342.JPG" data-size="2448x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/9/gallery/IMG_1342-thumbnail.JPG" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/9/gallery/IMG_1343.JPG" data-size="2448x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/9/gallery/IMG_1343-thumbnail.JPG" alt="" width="768" height="768"></a></figure>
+</div></div>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
