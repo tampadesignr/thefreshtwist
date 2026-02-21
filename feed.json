@@ -73,21 +73,6 @@
             ],
             "date_published": "2026-02-18T05:50:53-05:00",
             "date_modified": "2026-02-19T09:45:24-05:00"
-        },
-        {
-            "id": "https://thefreshtwist.com/open-for-work.html",
-            "url": "https://thefreshtwist.com/open-for-work.html",
-            "title": "open for work",
-            "summary": "welcome to the fresh twist, please look around : )",
-            "content_html": "<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 33.3809%;\">\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/1/20190706_062925.jpg\" alt=\"\" width=\"4032\" height=\"3024\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/1/responsive/20190706_062925-xs.jpg 300w ,https://thefreshtwist.com/media/posts/1/responsive/20190706_062925-sm.jpg 480w ,https://thefreshtwist.com/media/posts/1/responsive/20190706_062925-md.jpg 768w ,https://thefreshtwist.com/media/posts/1/responsive/20190706_062925-lg.jpg 1024w ,https://thefreshtwist.com/media/posts/1/responsive/20190706_062925-xl.jpg 1360w ,https://thefreshtwist.com/media/posts/1/responsive/20190706_062925-2xl.jpg 1600w\"></figure>\n</td>\n<td style=\"width: 2.583%;\"> </td>\n<td class=\"align-left\" style=\"width: 64.0361%;\">welcome to the fresh twist, please look around : )</td>\n</tr>\n<tr>\n<td style=\"width: 33.3809%;\"> </td>\n<td style=\"width: 2.583%;\"> </td>\n<td style=\"width: 64.0361%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 33.3809%;\"> </td>\n<td style=\"width: 2.583%;\"> </td>\n<td style=\"width: 64.0361%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 33.3809%;\"> </td>\n<td style=\"width: 2.583%;\"> </td>\n<td style=\"width: 64.0361%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 33.3809%;\"> </td>\n<td style=\"width: 2.583%;\"> </td>\n<td style=\"width: 64.0361%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 33.3809%;\"> </td>\n<td style=\"width: 2.583%;\"> </td>\n<td style=\"width: 64.0361%;\"> </td>\n</tr>\n<tr>\n<td style=\"width: 33.3809%;\"> </td>\n<td style=\"width: 2.583%;\"> </td>\n<td style=\"width: 64.0361%;\"> </td>\n</tr>\n</tbody>\n</table>",
-            "image": "https://thefreshtwist.com/media/posts/1/20191130_084624.jpg",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-18T04:07:41-05:00",
-            "date_modified": "2026-02-21T06:14:57-05:00"
         }
     ]
 }
