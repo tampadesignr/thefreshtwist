@@ -3,12 +3,44 @@
     <title>thefreshtwist.com</title>
     <link href="https://thefreshtwist.com/feed.xml" rel="self" />
     <link href="https://thefreshtwist.com" />
-    <updated>2026-03-02T08:36:01-05:00</updated>
+    <updated>2026-03-02T09:25:06-05:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://thefreshtwist.com</id>
 
+    <entry>
+        <title>apartment repaints</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://thefreshtwist.com/apartment-repaints.html"/>
+        <id>https://thefreshtwist.com/apartment-repaints.html</id>
+        <media:content url="https://thefreshtwist.com/media/posts/13/IMG_0272.JPG" medium="image" />
+            <category term="painting"/>
+            <category term="inside painting"/>
+            <category term="drywall"/>
+            <category term="apartment painting"/>
+
+        <updated>2026-03-02T09:25:06-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://thefreshtwist.com/media/posts/13/IMG_0272.JPG" alt="" />
+                    I did many apartment repaints and did not take many pics, but bascially I will come in and fix any minor drywall issues or major ones, and then repaint with the provided paint from the complex.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://thefreshtwist.com/media/posts/13/IMG_0272.JPG" class="type:primaryImage" alt="" /></p>
+                <p>I did many apartment repaints and did not take many pics, but bascially I will come in and fix any minor drywall issues or major ones, and then repaint with the provided paint from the complex.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/13/gallery/IMG_0271.JPG" data-size="3264x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/13/gallery/IMG_0271-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/13/gallery/IMG_0272.JPG" data-size="3264x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/13/gallery/IMG_0272-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/13/gallery/IMG_0270.JPG" data-size="3264x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/13/gallery/IMG_0270-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>orange staircases</title>
         <author>

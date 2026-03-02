@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://thefreshtwist.com/apartment-repaints.html",
+            "url": "https://thefreshtwist.com/apartment-repaints.html",
+            "title": "apartment repaints",
+            "summary": "I did many apartment repaints and did not take many pics, but bascially I will come in and fix any minor drywall issues or major ones, and then repaint with the provided paint from the complex.",
+            "content_html": "<p>I did many apartment repaints and did not take many pics, but bascially I will come in and fix any minor drywall issues or major ones, and then repaint with the provided paint from the complex.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0271.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0271-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0272.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0272-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0270.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0270-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>",
+            "image": "https://thefreshtwist.com/media/posts/13/IMG_0272.JPG",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "painting",
+                   "inside painting",
+                   "drywall",
+                   "apartment painting"
+            ],
+            "date_published": "2026-03-02T09:25:06-05:00",
+            "date_modified": "2026-03-02T09:25:06-05:00"
+        },
+        {
             "id": "https://thefreshtwist.com/orange-staircases.html",
             "url": "https://thefreshtwist.com/orange-staircases.html",
             "title": "orange staircases",
