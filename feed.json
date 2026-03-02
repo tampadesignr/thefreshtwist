@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://thefreshtwist.com/orange-staircases.html",
+            "url": "https://thefreshtwist.com/orange-staircases.html",
+            "title": "orange staircases",
+            "summary": "This job was to protect the surrounding enviroment while watching for the flow the people in and out of their apartments. When necessary wood planks were layed across the steps for people if needed to prevent contact with paint while it dried .",
+            "content_html": "<p>This job was to protect the surrounding enviroment while watching for the flow the people in and out of their apartments. When necessary wood planks were layed across the steps for people if needed to prevent contact with paint while it dried .</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/12/gallery/IMG_1450.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/12/gallery/IMG_1450-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/12/gallery/IMG_1451.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/12/gallery/IMG_1451-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/12/gallery/IMG_1452.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/12/gallery/IMG_1452-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>",
+            "image": "https://thefreshtwist.com/media/posts/12/IMG_1450.JPG",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "painting",
+                   "outside painting",
+                   "outdoors painting",
+                   "apartment painting"
+            ],
+            "date_published": "2026-03-02T08:32:38-05:00",
+            "date_modified": "2026-03-02T08:36:01-05:00"
+        },
+        {
             "id": "https://thefreshtwist.com/faux-painting-job.html",
             "url": "https://thefreshtwist.com/faux-painting-job.html",
             "title": "faux painting job",

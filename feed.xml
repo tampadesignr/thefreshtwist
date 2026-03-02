@@ -3,12 +3,44 @@
     <title>thefreshtwist.com</title>
     <link href="https://thefreshtwist.com/feed.xml" rel="self" />
     <link href="https://thefreshtwist.com" />
-    <updated>2026-02-21T06:11:54-05:00</updated>
+    <updated>2026-03-02T08:36:01-05:00</updated>
     <author>
         <name>admin</name>
     </author>
     <id>https://thefreshtwist.com</id>
 
+    <entry>
+        <title>orange staircases</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://thefreshtwist.com/orange-staircases.html"/>
+        <id>https://thefreshtwist.com/orange-staircases.html</id>
+        <media:content url="https://thefreshtwist.com/media/posts/12/IMG_1450.JPG" medium="image" />
+            <category term="painting"/>
+            <category term="outside painting"/>
+            <category term="outdoors painting"/>
+            <category term="apartment painting"/>
+
+        <updated>2026-03-02T08:32:38-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://thefreshtwist.com/media/posts/12/IMG_1450.JPG" alt="" />
+                    This job was to protect the surrounding enviroment while watching for the flow the people in and out of their apartments. When necessary wood planks were layed across the steps for people if needed to prevent contact with paint while it dried .
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://thefreshtwist.com/media/posts/12/IMG_1450.JPG" class="type:primaryImage" alt="" /></p>
+                <p>This job was to protect the surrounding enviroment while watching for the flow the people in and out of their apartments. When necessary wood planks were layed across the steps for people if needed to prevent contact with paint while it dried .</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/12/gallery/IMG_1450.JPG" data-size="3264x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/12/gallery/IMG_1450-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/12/gallery/IMG_1451.JPG" data-size="3264x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/12/gallery/IMG_1451-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://thefreshtwist.com/media/posts/12/gallery/IMG_1452.JPG" data-size="3264x2448"><img decoding="async" loading="lazy" src="https://thefreshtwist.com/media/posts/12/gallery/IMG_1452-thumbnail.JPG" alt="" width="768" height="576"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>faux painting job</title>
         <author>
