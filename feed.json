@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://thefreshtwist.com/landscape-design-and-house-remodelling.html",
+            "url": "https://thefreshtwist.com/landscape-design-and-house-remodelling.html",
+            "title": "landscape design and house remodelling",
+            "summary": "This was a combination of a few trades to complete this project. The landscaping was redone with pavers bush removal and rocks, the house got new architectural elements and a new paint job as well.",
+            "content_html": "<p>This was a combination of a few trades to complete this project. The landscaping was redone with pavers bush removal and rocks, the house got new architectural elements and a new paint job as well.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/23/gallery/Photo002.jpg\" data-size=\"352x288\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/23/gallery/Photo002-thumbnail.jpg\" alt=\"\" width=\"352\" height=\"288\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/23/gallery/3.jpg\" data-size=\"800x640\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/23/gallery/3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/23/gallery/Photo-0046.jpg\" data-size=\"1280x1024\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/23/gallery/Photo-0046-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/23/gallery/Photo-0045.jpg\" data-size=\"1280x1024\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/23/gallery/Photo-0045-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"614\"></a></figure>\n</div></div>\n<p> </p>",
+            "image": "https://thefreshtwist.com/media/posts/23/1.jpg",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "painting",
+                   "outside painting",
+                   "outdoors painting"
+            ],
+            "date_published": "2026-03-04T08:09:00-05:00",
+            "date_modified": "2026-03-04T08:09:00-05:00"
+        },
+        {
             "id": "https://thefreshtwist.com/outside-wood-deck-staining.html",
             "url": "https://thefreshtwist.com/outside-wood-deck-staining.html",
             "title": "outside wood deck staining",
@@ -45,7 +63,7 @@
                    "indoor painting"
             ],
             "date_published": "2026-03-04T07:19:24-05:00",
-            "date_modified": "2026-03-04T07:31:09-05:00"
+            "date_modified": "2026-03-04T08:01:49-05:00"
         },
         {
             "id": "https://thefreshtwist.com/new-medical-building.html",
@@ -177,25 +195,6 @@
             ],
             "date_published": "2026-03-03T09:23:12-05:00",
             "date_modified": "2026-03-03T09:24:01-05:00"
-        },
-        {
-            "id": "https://thefreshtwist.com/apartment-repaints.html",
-            "url": "https://thefreshtwist.com/apartment-repaints.html",
-            "title": "apartment repaints",
-            "summary": "I did many apartment repaints and did not take many pics, but basically I will come in and fix any minor drywall issues or major ones, and then repaint with the provided paint from the complex.",
-            "content_html": "<p>I did many apartment repaints and did not take many pics, but basically I will come in and fix any minor drywall issues or major ones, and then repaint with the provided paint from the complex.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0271.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0271-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0272.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0272-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0270.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/13/gallery/IMG_0270-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>",
-            "image": "https://thefreshtwist.com/media/posts/13/IMG_0272.JPG",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "painting",
-                   "inside painting",
-                   "drywall",
-                   "apartment painting"
-            ],
-            "date_published": "2026-03-02T09:25:06-05:00",
-            "date_modified": "2026-03-02T09:31:08-05:00"
         }
     ]
 }
