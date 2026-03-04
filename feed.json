@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://thefreshtwist.com/new-medical-building.html",
+            "url": "https://thefreshtwist.com/new-medical-building.html",
+            "title": "new medical building",
+            "summary": "As a finish technical painter, I usually arrive on job to finish up more difficult part of job and finish up other parts of project. Applying paint to smooth surfaces can be tricky to make it appear uniform so I usually took care of doors.",
+            "content_html": "<p>As a finish technical painter, I usually arrive on job to finish up more difficult part of job and finish up other parts of project. Applying paint to smooth surfaces can be tricky to make it appear uniform so I usually took care of doors.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0042.JPG\" data-size=\"2448x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0042-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0043.JPG\" data-size=\"2448x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0043-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0041.JPG\" data-size=\"2448x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0041-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0114.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0114-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0046.JPG\" data-size=\"2448x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0046-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0048.JPG\" data-size=\"3264x2448\"><img decoding=\"async\" loading=\"lazy\" src=\"https://thefreshtwist.com/media/posts/20/gallery/IMG_0048-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>\n<p> </p>",
+            "image": "https://thefreshtwist.com/media/posts/20/IMG_0045.JPG",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "painting",
+                   "inside painting",
+                   "indoor painting",
+                   "drywall"
+            ],
+            "date_published": "2026-03-04T06:43:42-05:00",
+            "date_modified": "2026-03-04T06:43:42-05:00"
+        },
+        {
             "id": "https://thefreshtwist.com/exercise-room-makeover.html",
             "url": "https://thefreshtwist.com/exercise-room-makeover.html",
             "title": "exercise room makeover ",
@@ -177,21 +196,6 @@
             ],
             "date_published": "2026-02-19T09:44:33-05:00",
             "date_modified": "2026-02-21T06:11:04-05:00"
-        },
-        {
-            "id": "https://thefreshtwist.com/paint-job-2.html",
-            "url": "https://thefreshtwist.com/paint-job-2.html",
-            "title": "paint job 2",
-            "content_html": "<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/7/IMG_1058.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-xs.JPG 300w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-sm.JPG 480w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-md.JPG 768w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-lg.JPG 1024w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-xl.JPG 1360w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1058-2xl.JPG 1600w\"></figure>\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://thefreshtwist.com/media/posts/7/IMG_1061.JPG\" alt=\"\" width=\"3264\" height=\"2448\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-xs.JPG 300w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-sm.JPG 480w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-md.JPG 768w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-lg.JPG 1024w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-xl.JPG 1360w ,https://thefreshtwist.com/media/posts/7/responsive/IMG_1061-2xl.JPG 1600w\"></figure>",
-            "image": "https://thefreshtwist.com/media/posts/7/IMG_1061-2.JPG",
-            "author": {
-                "name": "admin"
-            },
-            "tags": [
-                   "painting"
-            ],
-            "date_published": "2026-02-19T09:13:03-05:00",
-            "date_modified": "2026-02-21T06:11:54-05:00"
         }
     ]
 }
