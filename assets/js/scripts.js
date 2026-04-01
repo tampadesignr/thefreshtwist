@@ -1,38 +1,28 @@
 // Sticky menu
-let lastScrollPosition = 0;
-const header = document.getElementById("js-header");
-const stickyMenu = document.getElementById("js-navbar-menu");
+let newScrollPosition = 0;
+let lastScrollPosition;
+const header = document.getElementById("js-top");
 
 window.addEventListener('scroll', () => {
-    const currentScrollPosition = window.scrollY;
+    lastScrollPosition = window.scrollY;
 
     // Scrolling down
-    if (currentScrollPosition > lastScrollPosition && currentScrollPosition > 60) {
+    if (newScrollPosition < lastScrollPosition && lastScrollPosition > 184) {
         header.classList.remove("is-visible");
         header.classList.add("is-hidden");
-        if (stickyMenu) {
-            stickyMenu.classList.add("is-sticky");
-        }
-    } 
     // Scrolling up
-    else if (currentScrollPosition < lastScrollPosition) {
+    } else if (newScrollPosition > lastScrollPosition) {
         header.classList.remove("is-hidden");
         header.classList.add("is-visible");
-        if (stickyMenu) {
-            stickyMenu.classList.add("is-sticky");
-        }
     }
 
-    // Reached top
-    if (currentScrollPosition < 1) {
+    if (lastScrollPosition < 184) {
         header.classList.remove("is-visible");
-        if (stickyMenu) {
-            stickyMenu.classList.remove("is-sticky");
-        }
     }
 
-    lastScrollPosition = currentScrollPosition;
+    newScrollPosition = lastScrollPosition;
 });
+
 
 
 // Dropdown menu
@@ -464,6 +454,28 @@ window.addEventListener('scroll', () => {
     init();
 })(window.publiiThemeMenuConfig);
 
+
+// Load search input area
+const searchButton = document.querySelector(".js-search-btn");
+const searchOverlay = document.querySelector(".js-search-overlay");
+const searchClose = document.querySelector(".js-search-close");
+const searchInput = document.querySelector("[type='search']");
+
+if (searchButton && searchOverlay && searchClose) {
+    searchButton.addEventListener("click", () => {
+        searchOverlay.classList.add("expanded");
+        if (searchInput) {
+            setTimeout(() => {
+                searchInput.focus();
+            }, 60);
+        }
+    });
+
+    searchClose.addEventListener("click", () => {
+        searchOverlay.classList.remove("expanded");
+    });
+}
+
 // Share buttons pop-up
 (function () {
     // share popup
@@ -535,6 +547,24 @@ window.addEventListener('scroll', () => {
         }
     }
 })();
+
+// Back to top
+const backToTopButton = document.getElementById("backToTop");
+
+if (backToTopButton) {
+    window.addEventListener('scroll', () => {
+        if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+            backToTopButton.classList.add("is-visible");
+        } else {
+            backToTopButton.classList.remove("is-visible");
+        }
+    });
+
+    backToTopButton.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+}
+
 
 // Responsive embeds script
 (function () {
